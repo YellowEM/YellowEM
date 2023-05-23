@@ -16,9 +16,9 @@
 </div>
 
 ### :man_technologist: About Me :
-    - :moneybag:Sales Manager
-    - :computer_mouse:I like programming
-    -  Python
+- :moneybag:Sales Manager
+- :computer_mouse:I like programming
+-  Python
 
 ---
 ### :fire: My Stats :
