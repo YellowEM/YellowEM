@@ -22,6 +22,6 @@
 
 ---
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YellowEM&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YellowEM&theme=dark&border_radius=1)](https://git.io/streak-stats)
 
     
